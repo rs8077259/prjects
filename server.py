@@ -53,7 +53,7 @@ def server():
 
 but=tk.Entry()
 but.pack()
-but.insert(0,'192.168.43.64')
+but.insert(0,'')
 
 but1=tk.Entry()
 but1.pack()
