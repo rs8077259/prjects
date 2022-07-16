@@ -47,7 +47,7 @@ def receive():
 but=tk.Button(text='receive',command=receive,activebackground='green')
 i=tk.Entry()
 i.pack()
-i.insert(0,'192.168.43.64')
+i.insert(0,'')
 en=tk.Entry()
 en.pack()
 en.insert(0,'9999')
