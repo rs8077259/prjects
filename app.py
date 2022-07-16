@@ -69,7 +69,7 @@ def showdoc():
     return render_template('docwin.html',given=li)
 
 try:
-    a.run(host='192.168.43.189')
+    a.run(host='')
 
 except:
     a.run()
